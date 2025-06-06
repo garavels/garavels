@@ -1,4 +1,4 @@
-# What do you do in your mausoleum of calculus if not achieve results?
+# What's happened, happened. Which is an expression of fate in the mechanics of the world. It's not an excuse to do nothing
 
 ## 🔍 About Me
 - currently studying Econ @ Bocconi in Milan
