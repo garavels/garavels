@@ -1,4 +1,4 @@
-# What's happened, happened. Which is an expression of fate in the mechanics of the world. It's not an excuse to do nothing
+# What's happened, happened. Which is an expression of faith in the mechanics of the world. It's not an excuse to do nothing
 
 ## 🔍 About Me
 - currently studying Econ @ Bocconi in Milan
