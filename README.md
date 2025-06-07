@@ -30,3 +30,4 @@
 ## 📫 Personal Projects
 
 🌤️ [`Weather Derivatives`](https://github.com/GianiRanzetti/Minerva---Weather-Derivatives): Climate modeling with Ornstein-Uhlenbeck processes using Wavelet Networks.
+🌤️ [`WN residuals EVT analysis`]: Enhancing EVT with Wavelet-Decomposed OU Residuals
