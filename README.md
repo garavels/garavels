@@ -5,7 +5,6 @@
 - part of [Hephaestus Applied Artificial Intelligence](https://github.com/Hephaestus-AI-Association)
 - part of Bocconi AI lab (department of Computing Science)
 - interested in Extreme Value Theory
-- deepening understanding of Prediction Markets
 
 ## 📂 Research Oriented Projects
 
