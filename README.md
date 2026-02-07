@@ -18,6 +18,6 @@
 - ['RL World Models'](https://github.com/bocconi-narcos/latent-world-models): Benchmarking LeJEPA+VICReg vs. ViT encoder–decoder world models in RL environments.
 
 ## 📫 Personal Projects
-🚀 ['Codex Hackaton'](https://github.com/manfredi31/codex-hackathon): I was invited at the 2026 Codex Hackaton, didn't win but built a pretty cool game ai studio.
-🌤 [`Weather Derivatives`](https://github.com/GianiRanzetti/Minerva---Weather-Derivatives): Climate modeling with Ornstein-Uhlenbeck processes using Wavelet Networks.
+- 🚀 ['Codex Hackaton'](https://github.com/manfredi31/codex-hackathon): I was invited at the 2026 Codex Hackaton, didn't win but built a pretty cool game ai studio.
+- 🌤 [`Weather Derivatives`](https://github.com/GianiRanzetti/Minerva---Weather-Derivatives): Climate modeling with Ornstein-Uhlenbeck processes using Wavelet Networks.
 
