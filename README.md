@@ -7,7 +7,7 @@
 - part of Bocconi AI lab (department of Computing Science)
 
 ## 📂 Research Oriented Projects
-
+🧙‍♂️ Lately I made a new SOTA result on the PENS @ ['Refactor'](https://github.com/InkRL/refactor_PENS)
 
 🧩 With [`Braico`](https://github.com/francescobraicovich) and [`Filo`](https://github.com/filobayesian) we explored **ARC–AGI with Reinforcement Learning**:
 - [`ARC (v1)`](https://github.com/francescobraicovich/ARC): Custom DSL and action space with Wolpertinger Actor-Critic for large combinatorial domains.
