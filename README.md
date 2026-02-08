@@ -13,6 +13,7 @@
 - [`ARC (v1)`](https://github.com/francescobraicovich/ARC): Custom DSL and action space with Wolpertinger Actor-Critic for large combinatorial domains.
 - [`ARC (v2)`](https://github.com/francescobraicovich/ARC2): Added learnable action embeddings and ViT state encoding with a pretrained world model.
 - [`ARC (v3)`](https://github.com/francescobraicovich/ARC3): World modeling.
+- ['Combinatorially complex action spaces'](https://github.com/bocconi-narcos/I-have-a-dreamer)
 
 🧠 Under the CS department @ Bocconi we are working on:
 - ['RL World Models'](https://github.com/bocconi-narcos/latent-world-models): Benchmarking LeJEPA+VICReg vs. ViT encoder–decoder world models in RL environments.
