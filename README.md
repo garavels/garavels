@@ -6,6 +6,11 @@
 - part of [Hephaestus Applied Artificial Intelligence](https://github.com/Hephaestus-AI-Association)
 - part of Bocconi AI lab (department of Computing Science)
 
+## 📫 Personal Projects
+- 🏆 ['YC Hackaton'](https://github.com/manfredi31/unlinear): Winners of the 2026 YC Hackaton on MCP applications.
+- 🚀 ['Codex Hackaton'](https://github.com/manfredi31/codex-hackathon): I was invited at the 2026 Codex Hackaton, didn't win but built a pretty cool game ai studio.
+- 🌤 [`Weather Derivatives`](https://github.com/GianiRanzetti/Minerva---Weather-Derivatives): Climate modeling with Ornstein-Uhlenbeck processes using Wavelet Networks.
+
 ## 📂 Research Oriented Projects
 🧙‍♂️ Lately I made a new SOTA result on the PENS @ ['Refactor'](https://github.com/InkRL/refactor_PENS)
 
@@ -17,8 +22,3 @@
 
 🧠 Under the CS department @ Bocconi we are working on:
 - ['RL World Models'](https://github.com/bocconi-narcos/latent-world-models): Benchmarking LeJEPA+VICReg vs. ViT encoder–decoder world models in RL environments.
-
-## 📫 Personal Projects
-- 🚀 ['Codex Hackaton'](https://github.com/manfredi31/codex-hackathon): I was invited at the 2026 Codex Hackaton, didn't win but built a pretty cool game ai studio.
-- 🌤 [`Weather Derivatives`](https://github.com/GianiRanzetti/Minerva---Weather-Derivatives): Climate modeling with Ornstein-Uhlenbeck processes using Wavelet Networks.
-
