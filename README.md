@@ -8,13 +8,18 @@
 
 ## 📫 Personal Projects
 - 🏆 ['YC Hackaton'](https://github.com/manfredi31/unlinear): Winners of the 2026 YC Hackaton on MCP applications.
-- 🚀 ['Codex Hackaton'](https://github.com/manfredi31/codex-hackathon): I was invited at the 2026 Codex Hackaton, didn't win but built a pretty cool game ai studio.
-- 🌤 [`Weather Derivatives`](https://github.com/GianiRanzetti/Minerva---Weather-Derivatives): Climate modeling with Ornstein-Uhlenbeck processes using Wavelet Networks.
+- 🏆 ['Cyberwave Hackaton'](https://github.com/garavels/robothelper): Winner for the scrapegraphai track.
+- 🏆 ['B@B Hacks Hackaton'](https://github.com/garavels/Liquid-trading): Top 5 as best project overall
+- 🚀 ['Codex Hackaton'](https://github.com/manfredi31/codex-hackathon): 2026 Codex Hackaton project
+- 🧙‍♂️ ['OpenClaw wrapper'](https://github.com/garavels/Claw): a simpler and dumber version of openclaw with better UX
 
 ## 📂 Research Oriented Projects
 🧙‍♂️ Lately I made a new SOTA result on the PENS @ ['Refactor'](https://github.com/InkRL/refactor_PENS)
 
+🌦️ ['Weather derivatives'](https://github.com/GianiRanzetti/Minerva---Weather-Derivatives): I was into finance
+
 🧩 With [`Braico`](https://github.com/francescobraicovich) and [`Filo`](https://github.com/filobayesian) we explored **ARC–AGI with Reinforcement Learning**:
+- 🌤 [`Weather Derivatives`](https://github.com/GianiRanzetti/Minerva---Weather-Derivatives): Climate modeling with Ornstein-Uhlenbeck processes using Wavelet Networks.
 - [`ARC (v1)`](https://github.com/francescobraicovich/ARC): Custom DSL and action space with Wolpertinger Actor-Critic for large combinatorial domains.
 - [`ARC (v2)`](https://github.com/francescobraicovich/ARC2): Added learnable action embeddings and ViT state encoding with a pretrained world model.
 - [`ARC (v3)`](https://github.com/francescobraicovich/ARC3): World modeling.
