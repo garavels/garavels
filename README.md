@@ -8,7 +8,7 @@
 
 ## 📫 Personal Projects
 - 🏆 ['YC Hackaton'](https://github.com/manfredi31/unlinear): Winners of the 2026 YC Hackaton on MCP applications.
-- 🏆 ['Cyberwave Hackaton'](https://github.com/garavels/robothelper): Winner for the scrapegraphai track.
+- 🏆 ['Cyberwave Hackaton'](https://github.com/garavels/robothelper): Winner for the scrapegraphai track (https://devpost.com/software/robothelper).
 - 🏆 ['B@B Hacks Hackaton'](https://github.com/garavels/Liquid-trading): Top 5 as best project overall
 - 🚀 ['Codex Hackaton'](https://github.com/manfredi31/codex-hackathon): 2026 Codex Hackaton project
 - 🧙‍♂️ ['OpenClaw wrapper'](https://github.com/garavels/Claw): a simpler and dumber version of openclaw with better UX
